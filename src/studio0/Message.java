@@ -3,6 +3,6 @@ package studio0;
 public class Message {
 
 	public static void main(String args[]) {
-		System.out.println(" theasdl;fkll   l;k j workshop! ");
+		System.out.println(" theasdl;fkl   l;k j workshop! ");
 	}
 }
